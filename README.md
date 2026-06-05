@@ -1,5 +1,9 @@
+# Hi 👋 I'm Derya Teke
+
+### Frontend Developer | Based in UK 🇬🇧
+
 # 💫 About Me:
-Hi, I'm Derya Teke, a Passionate Frontend Developer based in the UK 🇬🇧, focused on crafting modern and responsive user interfaces using HTML, CSS, JavaScript, and React. I enjoy building clean, user-friendly web applications with attention to detail and a strong focus on user experience. Highly motivated and continuously learning, I thrive on turning creative ideas into functional and visually appealing web pages. Currently expanding my skills in React and modern frontend development practices, aiming to grow into a well-rounded developer.
+A Passionate Frontend Developer based in the UK 🇬🇧, focused on crafting modern and responsive user interfaces using HTML, CSS, JavaScript, and React. I enjoy building clean, user-friendly web applications with attention to detail and a strong focus on user experience. Highly motivated and continuously learning, I thrive on turning creative ideas into functional and visually appealing web pages. Currently expanding my skills in React and modern frontend development practices, aiming to grow into a well-rounded developer.
 
 
 # 💻 Tech Stack:
