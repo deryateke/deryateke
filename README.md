@@ -1,4 +1,4 @@
-                                                                                # Hi 👋 I'm Derya Teke
+                                                                              # Hi 👋 I'm Derya Teke
 
                                                                          ### Frontend Developer | Based in UK 🇬🇧
 
