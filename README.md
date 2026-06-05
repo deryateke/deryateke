@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Based in UK 🇬🇧</h3>
 
 # 💫 About Me:
-A Passionate Frontend Developer, focused on crafting modern and responsive user interfaces using HTML, CSS, JavaScript, and React. I enjoy building clean, user-friendly web applications with attention to detail and a strong focus on user experience. Highly motivated and continuously learning, I thrive on turning creative ideas into functional and visually appealing web pages. Currently expanding my skills in React and modern frontend development practices, aiming to grow into a well-rounded developer.
+A results-driven Frontend Developer with a strong passion for building modern, responsive, and visually compelling web applications. Proficient in HTML, CSS, JavaScript, and React, with a keen eye for detail and a commitment to delivering exceptional user experiences. Highly motivated and eager to grow, I consistently seek to expand my technical skill set and stay up-to-date with the latest frontend technologies and best practices. Currently deepening my expertise in React and component-based architecture, with the goal of contributing to impactful and innovative projects.
 
 
 # 💻 Tech Stack:
