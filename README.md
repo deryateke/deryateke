@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋 I'm Derya Teke</h1>
-<h3 align="center">Frontend Developer | Based in UK 🇬🇧</h3>
 
 # 💫 About Me:
 A results-driven Frontend Developer with a strong passion for building modern, responsive, and visually compelling web applications. Proficient in HTML, CSS, JavaScript, and React, with a keen eye for detail and a commitment to delivering exceptional user experiences. Highly motivated and eager to grow, I consistently seek to expand my technical skill set and stay up-to-date with the latest frontend technologies and best practices. Currently deepening my expertise in React and component-based architecture, with the goal of contributing to impactful and innovative projects.
